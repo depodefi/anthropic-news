@@ -144,9 +144,12 @@ def generate_feed():
     dom = xml.dom.minidom.parseString(rss_content)
     pretty_xml = dom.toprettyxml(indent="  ")
     
-    with open("feed.rss", "w") as f:
+    import os
+    os.makedirs("feed", exist_ok=True)
+    
+    with open("feed/feed.xml", "w") as f:
         f.write(pretty_xml)
-    print(f"Generated feed.rss with {len(items)} items.")
+    print(f"Generated feed/feed.xml with {len(items)} items.")
 
 if __name__ == "__main__":
     generate_feed()

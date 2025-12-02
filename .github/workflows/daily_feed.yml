@@ -37,5 +37,5 @@ jobs:
         keep_files: true
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
-        commit_message: 'Update feed.rss'
-        include_files: feed.rss
+        commit_message: 'Update feed.xml'
+        include_files: feed/feed.xml

@@ -5,9 +5,17 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news from Anthropic</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 Jan 2026 08:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 08:04:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Claude's new constitution</title>
+      <link>https://www.anthropic.com/news/claude-new-constitution</link>
+      <description>A new approach to a foundational document that expresses and shapes who Claude is</description>
+      <author>Anthropic</author>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-new-constitution</guid>
+    </item>
     <item>
       <title>Mariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust</title>
       <link>https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust</link>
@@ -63,14 +71,6 @@
       <author>Anthropic</author>
       <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/compliance-framework-SB53</guid>
-    </item>
-    <item>
-      <title>Working with the US Department of Energy to unlock the next era of scientific discovery</title>
-      <link>https://www.anthropic.com/news/genesis-mission-partnership</link>
-      <description>Anthropic and the US Department of Energy (DOE) are announcing a multi-year partnership as part of the Genesis Mission— the Department’s initiative to use AI to cement America’s leadership in science. Our partnership focuses on three domains—American energy dominance, the biological and life sciences, and scientific productivity—and has the potential to affect the work being done at all 17 of America’s national laboratories. The Genesis Mission recognizes that we are at a critical moment: as global competition in AI intensifies, America must harness its unmatched scientific infrastructure—from supercomputers to decades of experimental data—and combine it with frontier AI capabilities to maintain scientific leadership. Anthropic seeks to play a key role in this effort. “Anthropic was founded by scientists who believe AI can deliver transformative progress for research itself,” said Jared Kaplan, Anthropic’s Chief Science Officer. “The Genesis Mission is the sort of ambitious, rigorous program where that belief gets tested. We’re honored to help advance science that benefits everyone.” Brian Peters, Anthropic's Head of North America Government Affairs, attended the Genesis Mission launch event today at the White House. We are looking forward to contributing to the mission and continuing to collaborate with DOE. Anthropic seeks to provide DOE researchers access both to Claude and to a team of Anthropic engineers, who can develop purpose-built tools, including: Claude can facilitate substantial advancements in: Scientific progress has always driven America’s prosperity and security. Anthropic aspires to expand existing arrangements with DOE to build the next chapter: using AI across America’s research institutions, with deep context on scientists’ work and active support from our engineers. Potential future arrangements would represent the next stage of Anthropic and DOE’s multi-year partnership. Past projects with DOE include co-development of anuclear risk classifierwith the National Nuclear Security Administration and rolling out Claude at theLawrence Livermore national laboratory. As we learn from the current work with DOE’s, we’ll be able to develop a model for how AI and human researchers can work together—and feed this back into the development of the AI tools they use.</description>
-      <author>Anthropic</author>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/genesis-mission-partnership</guid>
     </item>
     <item>
       <title>Introducing Claude Opus 4.5</title>

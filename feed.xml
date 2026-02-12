@@ -5,9 +5,17 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news from Anthropic</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 11 Feb 2026 08:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 08:12:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Covering electricity price increases from our data centers</title>
+      <link>https://www.anthropic.com/news/covering-electricity-price-increases</link>
+      <description>As we continue toinvest in American AI infrastructure, Anthropic will cover electricity price increases that consumers face from our data centers.  Training a single frontier AI model will soon require gigawatts of power, and the US AI sector will need at least 50 gigawatts of capacity over the next several years. The countryneeds to build new data centersquickly to maintain its competitiveness on AI and national security—but AI companies shouldn’t leave American ratepayers to pick up the tab.  Data centers can raise consumer electricity prices in two main ways. First, connecting data centers to the grid often requires costly new or upgraded infrastructure like transmission lines or substations. Second, new demand tightens the market, pushing up prices. We’re committing to address both. Specifically, we will:   Where we work with partners to develop data centers for handling our own workloads, we make these commitments directly. Where we lease capacity from existing data centers, we’re exploring further ways to address our own workloads' effects on prices.  Of course, company-level action isn't enough. Keeping electricity affordable also requires systemic change. We supportfederal policies—including permitting reform and efforts to speed up transmission development and grid interconnection—that make it faster and cheaper to bring new energy online for everyone.  Done right, AI infrastructure can be a catalyst for the broader energy investment the country needs. These commitments are the beginning of our efforts to address data centers’ impact on energy costs. We have more to do, and we’ll continue to share updates as this work develops.  We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin. We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.</description>
+      <author>Anthropic</author>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/covering-electricity-price-increases</guid>
+    </item>
     <item>
       <title>Introducing Claude Opus 4.6</title>
       <link>https://www.anthropic.com/news/claude-opus-4-6</link>
@@ -79,14 +87,6 @@
       <author>Anthropic</author>
       <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-teach-for-all</guid>
-    </item>
-    <item>
-      <title>Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening</title>
-      <link>https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india</link>
-      <description>Irina Ghose is joining Anthropic as Managing Director of India as we prepare to open our first office in the country. Irina brings more than three decades of experience in scaling technology businesses. She most recently served as Managing Director, Microsoft India, where she led enterprise AI adoption across major Indian industries including banking and financial services, healthcare, manufacturing, and government. She’s led high-impact teams, built ecosystem partnerships, and championed future-ready capabilities across India’s technology landscape, with a consistent focus on using technology to drive meaningful business and societal impact. “India has a real opportunity to shape how AI is built and deployed at scale,” Irina said. “Indian organizations are moving beyond experimentation toward applied AI, where trust, safety, and long-term impact matter as much as innovation. Anthropic’s mission resonates with my belief that technology should empower people, expand access, and create lasting value across India’s diverse languages and communities.” &quot;Irina's expertise in scaling technology businesses and driving enterprise transformation makes her the ideal leader as we expand,&quot; said Chris Ciauri, Managing Director of International, Anthropic. &quot;As we grow our teams and deepen engagement across India’s public and private sectors, Irina will ensure our approach is grounded in local insight and aligned with our mission.&quot; Our India team will work closely with policymakers and academic institutions, strengthen developer engagement, and build partnerships with enterprises and organizations using AI to address local challenges. India ranks as the second-largest market globally for Claude.ai. Anthropic's fourthEconomic Indexshowed that Indian users have a striking focus on technical applications, with nearly half of all Claude.ai usage concentrated in computer and mathematical tasks. We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin. We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.</description>
-      <author>Anthropic</author>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india</guid>
     </item>
   </channel>
 </rss>

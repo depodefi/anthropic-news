@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news from Anthropic</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Mar 2026 08:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 08:11:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -43,7 +43,7 @@
     <item>
       <title>Where things stand with the Department of War</title>
       <link>https://www.anthropic.com/news/where-stand-department-war</link>
-      <description>A statement from Dario Amodei.</description>
+      <description>A statement from Dario Amodei</description>
       <author>Anthropic</author>
       <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/where-stand-department-war</guid>
@@ -51,7 +51,7 @@
     <item>
       <title>Statement on the comments from Secretary of War Pete Hegseth</title>
       <link>https://www.anthropic.com/news/statement-comments-secretary-war</link>
-      <description>Anthropic's response to the Secretary of War and advice to customers.</description>
+      <description>Anthropic's response to the Secretary of War and advice for customers</description>
       <author>Anthropic</author>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/statement-comments-secretary-war</guid>
@@ -59,7 +59,7 @@
     <item>
       <title>Statement from Dario Amodei on our discussions with the Department of War</title>
       <link>https://www.anthropic.com/news/statement-department-of-war</link>
-      <description>A statement from our CEO on national security uses of AI.</description>
+      <description>A statement from our CEO on national security uses of AI</description>
       <author>Anthropic</author>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/statement-department-of-war</guid>
@@ -95,6 +95,14 @@
       <author>Anthropic</author>
       <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-6</guid>
+    </item>
+    <item>
+      <title>Introducing Claude Opus 4.6</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-6</link>
+      <description>We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.</description>
+      <author>Anthropic</author>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-6</guid>
     </item>
     <item>
       <title>Claude is a space to think</title>

@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news from Anthropic</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 26 Jun 2026 09:03:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 08:54:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -19,7 +19,7 @@
     <item>
       <title>Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem</title>
       <link>https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem</link>
-      <description>Anthropic opens Seoul and announces new partnerships across the Korean AI ecosystem—with the enterprises, startups, and researchers behind some of the most ambitious deployments of Claude.</description>
+      <description>Anthropic opens in Seoul and announces new partnerships across the Korean AI ecosystem.</description>
       <author>Anthropic</author>
       <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>TCS and Anthropic partner to bring Claude to regulated industries</title>
       <link>https://www.anthropic.com/news/tcs-anthropic-partnership</link>
-      <description>We’re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner Network.</description>
+      <description>Anthropic is announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner Network.</description>
       <author>Anthropic</author>
       <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/tcs-anthropic-partnership</guid>
@@ -59,7 +59,7 @@
     <item>
       <title>DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
       <link>https://www.anthropic.com/news/dxc-anthropic-alliance</link>
-      <description>We’re announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.</description>
+      <description>Anthropic is announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.</description>
       <author>Anthropic</author>
       <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/dxc-anthropic-alliance</guid>

@@ -5,9 +5,17 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news from Anthropic</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 Jul 2026 09:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 10:28:33 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>More details on Fable 5’s cyber safeguards and our jailbreak framework</title>
+      <link>https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</link>
+      <description>What is and isn't blocked by our cyber classifiers, and a first draft of our jailbreak severity framework</description>
+      <author>Anthropic</author>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</guid>
+    </item>
     <item>
       <title>Redeploying Fable 5</title>
       <link>https://www.anthropic.com/news/redeploying-fable-5</link>
@@ -79,14 +87,6 @@
       <author>Anthropic</author>
       <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/dxc-anthropic-alliance</guid>
-    </item>
-    <item>
-      <title>Introducing Claude Corps</title>
-      <link>https://www.anthropic.com/news/claude-corps</link>
-      <description>Anthropic is launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.</description>
-      <author>Anthropic</author>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-corps</guid>
     </item>
   </channel>
 </rss>

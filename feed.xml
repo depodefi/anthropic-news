@@ -5,9 +5,17 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news from Anthropic</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 06 Jul 2026 11:57:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:48:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</title>
+      <link>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</link>
+      <description>The Government of Alberta has been using Claude Code with both Opus and Sonnet models to review its systems, find vulnerabilities, and fix them.</description>
+      <author>Anthropic</author>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/alberta-government-claude-cybersecurity</guid>
+    </item>
     <item>
       <title>More details on Fable 5’s cyber safeguards and our jailbreak framework</title>
       <link>https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</link>
@@ -79,14 +87,6 @@
       <author>Anthropic</author>
       <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/tcs-anthropic-partnership</guid>
-    </item>
-    <item>
-      <title>DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
-      <link>https://www.anthropic.com/news/dxc-anthropic-alliance</link>
-      <description>Anthropic is announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.</description>
-      <author>Anthropic</author>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/dxc-anthropic-alliance</guid>
     </item>
   </channel>
 </rss>

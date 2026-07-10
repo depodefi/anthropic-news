@@ -5,9 +5,41 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news from Anthropic</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:47:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:45:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Inviting hard questions</title>
+      <link>https://www.anthropic.com/news/hard-questions</link>
+      <description>We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.</description>
+      <author>Anthropic</author>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/hard-questions</guid>
+    </item>
+    <item>
+      <title>UST is bringing Claude to physical AI</title>
+      <link>https://www.anthropic.com/news/ust-claude</link>
+      <description>Before a factory commits to manufacturing millions of chips, engineers stress-test the design in the fab. Before a product ships, a fault on the assembly line has to be caught before it becomes a recall. When AI does this kind of work, it’s called physical AI: intelligence built into the equipment and engineering processes that produce the things people use.  We’re partnering withUST, a technology and engineering services company that builds and runs the engineering environments its clients depend on to get chips, cars, and connected devices to market. UST is putting Claude to work inside those environments, and training 20,000 of its engineers, architects, and consultants on Claude worldwide.  UST works alongside semiconductor, automotive, manufacturing, telecom, embedded, and IoT companies. It builds the systems those companies use to verify their designs, validate their chips, run their factories, and service their products once they’re out in the world. These are long, multi-step processes where an early mistake gets more expensive with every step that follows. A design flaw caught during verification costs an engineer an afternoon; the same flaw caught after a factory has committed to manufacturing costs a production run. UST is bringing Claude into this work. Claude Code reads the schematics and pinouts an engineer works from, then writes and runs the tests that check the design. It carries that task across many steps, holding the context of a design through hours-long tasks. UST is aiming to catch design flaws earlier, speed up chip validation, and bring hardware and software together in a single system. The clearest example is a UST platform called iDEC, which its engineers use to validate hardware and silicon before it goes to production. Validation is the work of proving a chip actually behaves the way its designers intended, and it’s arduous: engineers write test scripts by hand, run them, read the results, and repeat the cycle many times over. UST reports that iDEC’s closed-loop pipeline,reads hardware designs, generates and runs regression tests, and compares live equipment data against its digital twin to flag issues early, already cuts validation cycle times by 50 to 70%, condensing standard four-day turnarounds into 48 hours. UST is now integrating Claude into that pipeline as its reasoning layer. Claude Code reads chip pinouts and hardware schematics directly, then writes and runs regression tests—the checks that confirm a change to a design didn’t cause an unintended downstream effect—which engineers used to script by hand. Claude also compares the live data from real equipment against its digital twin—the software model of how that hardware is supposed to behave—and flags firmware regressions and signal-integrity faults. UST’s goal is to make its pipeline even faster, with less hand scripting and earlier fault detection, and no new tools for engineers to learn. “Our alliance with Anthropic reflects UST’s unwavering commitment to helping clients navigate the AI landscape with confidence and achieve meaningful business outcomes. By combining the capabilities of Claude with UST’s engineering, industry knowledge, and delivery expertise, we are bringing to market industry-specific platforms and digital and engineering solutions that improve productivity, accelerate business outcomes, and help clients operationalize AI-led decisions in a safe and secure environment,” said Krishna Sudheendra, Chief Executive Officer, UST.  “UST helps the world’s banks, telecoms, and manufacturers put new technology to work. They’re proving Claude inside their own engineering first, and training 20,000 of their own people on it, before bringing it into the systems they build and run for clients,” said Paul Smith, Chief Commercial Officer, Anthropic.  UST is bringing Claude into three other platforms it operates for clients:   UST is committing to train 20,000 of its associates on Claude worldwide, including engineers, architects, consultants, industry specialists, and forward-deployed engineers, who sit alongside client teams. It’s also building specialized teams to deploy Claude. We’re supporting UST in this effort with enablement, technical guidance, and certification through the Claude Partner Network. This partnership also makes UST a Global Premier Partner in the Claude Partner Network.  The industries UST serves are extremely high-stakes. Human approval steps and audit controls are important forms of governance that make it possible for the systems to run in production. The reliability and safety we’ve prioritized in building Claude, paired with UST’s experience in governance and regulated delivery, enables this work to move out of a pilot and into the systems that run a business.  We’re asking the public for their hardest questions about AI, and committing to show our work as we address them. Introducing a new way to reflect on and refine how you use Claude. It lets you easily track and visualize how you use Claude, and decide whether that time aligns with your goals.</description>
+      <author>Anthropic</author>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/ust-claude</guid>
+    </item>
+    <item>
+      <title>Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</title>
+      <link>https://www.anthropic.com/news/ben-bernanke</link>
+      <description>Anthropic's Long-Term Benefit Trust (LTBT) has appointed Dr. Ben Bernanke, a Distinguished Fellow at the Brookings Institution and former Chair of the Federal Reserve, as its newest member. He joins an independent body that works to hold Anthropic to its mission: the responsible development of advanced AI for the long-term benefit of humanity. Bernanke led the Federal Reserve from 2006 to 2014, steering the central bank through the 2008 global financial crisis and the recovery that followed. Before entering government, he spent more than two decades as an academic economist, much of that time at Princeton, where he chaired the economics department and built a body of research on the Great Depression and the role banks play in financial crises. That work earned him the Nobel Prize in Economic Sciences in 2022. “The potential of artificial intelligence is enormous, and so is the range of outcomes. How that potential plays out will depend, in part, on the institutions we build around it,” said Dr. Bernanke. “Anthropic has created a unique governance structure to try to ensure that the long-run benefits of AI for humanity far outweigh the risks. I am honored to have this opportunity, and I will try to contribute in any way I can to this critical mission.” “AI may have the most significant economic effects of any technology in modern history, and Anthropic has a dual responsibility to understand those effects and to act on them,” said Daniela Amodei, Co-Founder and President of Anthropic. “Ben’s career has run from studying how economies react to disruptive moments to helping steer the world’s largest economy through one such time. His judgment will make us better at anticipating and responding to how advanced AI affects workforces and economies around the world.” Anthropic is a Public Benefit Corporation, meaning the company was created to balance commercial success with generating social and public good. The LTBT exists to help the company responsibly maintain that balance over the long term, providing a check on how Anthropic develops and deploys AI. The Trustees are chosen for their expertise across a wide range of areas, and are independent of the company’s management and investors: they hold no equity in Anthropic, don’t share in its profits, and are compensated only for their time and service. New Trustees are selected by the existing ones, in consultation with the company. “The institutions built around this technology will matter as much as the technology itself,” added Neil Buddy Shah, Chair of the LTBT. “Ben spent eight years leading the Federal Reserve and guided the country through the worst financial crisis in nearly a century with expertise, independence, and sound judgment. That's the standard we look for in Trustees as AI's impact grows, and we're fortunate Ben has chosen to join us in this work.” The LTBT has the authority to appoint members to Anthropic’s board. The Trustees advise the board and Anthropic’s leadership on critical decisions, particularly those involving the potential risks and societal impacts of AI. Bernanke’s appointment brings expertise to one of the questions Anthropic studies most closely: how AI is changing the economy. He will lend his insight to our economic research, in addition to other areas of Anthropic's work. Bernanke joinsNeil Buddy Shah,Richard Fontaine, andMariano-Florentino Cuéllaron the LTBT. Their collective experience spans global health, national security, law, policy, and economics.  We’re asking the public for their hardest questions about AI, and committing to show our work as we address them. Introducing a new way to reflect on and refine how you use Claude. It lets you easily track and visualize how you use Claude, and decide whether that time aligns with your goals.</description>
+      <author>Anthropic</author>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/ben-bernanke</guid>
+    </item>
+    <item>
+      <title>Introducing a way to reflect on how you use Claude</title>
+      <link>https://www.anthropic.com/news/reflect-with-claude</link>
+      <description>Introducing a new way to reflect on and refine how you use Claude. It lets you easily track and visualize how you use Claude, and decide whether that time aligns with your goals. </description>
+      <author>Anthropic</author>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/reflect-with-claude</guid>
+    </item>
     <item>
       <title>Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</title>
       <link>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</link>
@@ -55,38 +87,6 @@
       <author>Anthropic</author>
       <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/introducing-claude-tag</guid>
-    </item>
-    <item>
-      <title>Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem</title>
-      <link>https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem</link>
-      <description>Anthropic opens in Seoul and announces new partnerships across the Korean AI ecosystem.</description>
-      <author>Anthropic</author>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem</guid>
-    </item>
-    <item>
-      <title>Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
-      <link>https://www.anthropic.com/news/fable-mythos-access</link>
-      <description>The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.</description>
-      <author>Anthropic</author>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/fable-mythos-access</guid>
-    </item>
-    <item>
-      <title>Results from the first Anthropic Public Record</title>
-      <link>https://www.anthropic.com/news/anthropic-public-record</link>
-      <description>Anthropic Public Record is a national survey of attitudes and opinions towards AI.</description>
-      <author>Anthropic</author>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-public-record</guid>
-    </item>
-    <item>
-      <title>TCS and Anthropic partner to bring Claude to regulated industries</title>
-      <link>https://www.anthropic.com/news/tcs-anthropic-partnership</link>
-      <description>Anthropic is announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner Network.</description>
-      <author>Anthropic</author>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/tcs-anthropic-partnership</guid>
     </item>
   </channel>
 </rss>

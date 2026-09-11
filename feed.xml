@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news from Anthropic</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:33:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:28:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -51,7 +51,7 @@
     <item>
       <title>How Claude’s text watermark works</title>
       <link>https://www.anthropic.com/news/claude-text-watermark</link>
-      <description>In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.</description>
+      <description>Future Claude models will generate text that contains a watermark to comply with the EU AI Act. We answer questions about how it works and whether it affects outputs.</description>
       <author>Anthropic</author>
       <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-text-watermark</guid>
